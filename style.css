@@ -55,6 +55,14 @@ img {
     background-color: navy;
     margin: 8px auto;
 }
-#third{
+
+#third {
     color: darkgoldenrod;
+}
+
+#fourth {
+    color: darkgoldenrod;
+}
+.mail{
+    background-color: crimson;
 }
